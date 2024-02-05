@@ -1,0 +1,10 @@
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe.config
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.pdb
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.AssemblyReference.cache
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Properties.Resources.resources
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.GenerateResource.cache
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.CoreCompileInputs.cache
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.exe
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.pdb
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Form1.resources
