@@ -66,7 +66,7 @@ namespace Fighting_Game
                     // custom animation
                     animation.cancelPriority = 3;
 
-                    animf = new AnimationFrame(3, "Elbow1");
+                    /*animf = new AnimationFrame(3, "Elbow1");
                     animation.frames.Add(animf);
 
                     animf = new AnimationFrame(5, "Elbow2");
@@ -94,7 +94,32 @@ namespace Fighting_Game
                     animation.frames.Add(animf);
 
                     animf = new AnimationFrame(29, "Elbow4");
-                    animation.frames.Add(animf);
+                    animation.frames.Add(animf);*/
+
+                    int[] frameDataElbow = { 3, 5, 7, 9, 11, 16, 23, 29 };
+                    int aniNumElbow = 1;
+                    for(int i = 0; i<frameDataElbow.Length; i++){
+                        animf = new AnimationFrame(frameDataElbow[i], "Elbow" + aniNumElbow);
+                        switch (frameDataElbow[i])
+                        {
+                            case 9: 
+                                animf.xV = 2; 
+                                break;
+                            case 11:
+                                animf.xV = 3;
+                                animf.Hurtboxes.Add(new Hitbox(new Rectangle(50, 20, 50, 70)));
+                                break;
+                            case 16:
+                                animf.Hitboxes.Add(new Hitbox(new Rectangle(70, 20, 50, 50)));
+                                animf.Hurtboxes.Add(new Hitbox(new Rectangle(50, 20, 50, 70)));
+                                break;
+                            case 23:
+                                animf.Hurtboxes.Add(new Hitbox(new Rectangle(50, 20, 50, 70)));
+                                break;
+                        }
+                        animation.frames.Add(animf);
+                        aniNumElbow++;
+                    }
 
                     animation.Step(1);
                 }
