@@ -1,0 +1,20 @@
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe.config
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.pdb
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.AssemblyReference.cache
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Properties.Resources.resources
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.GenerateResource.cache
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.CoreCompileInputs.cache
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.exe
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.pdb
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Form1.resources
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe.manifest
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.application
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.exe.manifest
+C:\Users\tllau\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.application
+C:\Users\unrel\Documents\GitHub\Fighting-Game\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.AssemblyReference.cache
+C:\Users\unrel\Documents\GitHub\Fighting-Game\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Form1.resources
+C:\Users\unrel\Documents\GitHub\Fighting-Game\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Properties.Resources.resources
+C:\Users\unrel\Documents\GitHub\Fighting-Game\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.GenerateResource.cache
+C:\Users\unrel\Documents\GitHub\Fighting-Game\Fighting Game\Fighting Game\obj\Debug\Fighting Game.exe
+C:\Users\unrel\Documents\GitHub\Fighting-Game\Fighting Game\Fighting Game\obj\Debug\Fighting Game.pdb
